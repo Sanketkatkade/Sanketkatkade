@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, Sanket Katkade</h1>
+<h1 align="center">Hi 👋,I'am, Sanket Katkade</h1>
 
 
 - 🌱 I’m currently learning DSA
