@@ -7,13 +7,8 @@
 - 📫 How to reach me: sanketkatkade782@gmail.com
 <br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketkatkade&&theme=dark" alt="Sanketkatkade" />
 
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanketkatkade&show_icons=true&locale=en&theme=tokyonight" alt="Sanketkatkade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketkatkade&&theme=tokyonight" alt="Sanketkatkade" /></p>
+![](https://leetcard.jacoblin.cool/Sanket_07?ext=heatmap)</p>
 
 
