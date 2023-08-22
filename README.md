@@ -7,8 +7,16 @@
 - 📫 How to reach me: sanketkatkade782@gmail.com
 <br>
 
-<p><img align="center" src="[https://streak-stats.demolab.com/?user=Sanketkatkade&&theme=dark" alt="Sanketkatkade" />
 
-![](https://leetcard.jacoblin.cool/Sanket_07?ext=heatmap)</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanketkatkade&theme=dark" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Sanket_07?ext=heatmap" alt="LeetCard Heatmap">
+</div>
+
+
+
 
 
