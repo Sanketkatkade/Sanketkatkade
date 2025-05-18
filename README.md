@@ -1,5 +1,10 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sanketkatkade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 <h1 align="center">Hi 👋, I'm Sanket Katkade</h1>
 <h3 align="center">A Passionate Problem Solver & Aspiring Software Developer</h3>
+
 
 ---
 
