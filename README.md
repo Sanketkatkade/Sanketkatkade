@@ -19,17 +19,6 @@
 
 ---
 
-## 🔗 Profiles
-<p align="center">
-  <a href="https://leetcode.com/u/Sanket_07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/sanket_56" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
----
 
 ## 🧠 My Learning Journey
 <p align="center">
@@ -50,6 +39,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sanketkatkade&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketkatkade&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+
+## 🔗 Profiles
+<p align="center">
+  <a href="https://leetcode.com/u/Sanket_07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/sanket_56" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 ---
