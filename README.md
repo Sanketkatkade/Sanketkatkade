@@ -3,13 +3,12 @@
 
 ---
 
-- 🌱 Currently learning **Data Structures and Algorithms (DSA)**
+- 🌱 Currently focusing on **Data Structures and Algorithms (DSA)**
 - 💡 Interested in **Problem Solving** and **Web Development**
-- 💻 Languages I’m learning:
+- 🧠 Languages & Technologies I know:
   - **C++**
   - **JavaScript**
   - **Node.js**
-  - **MongoDB**
 - 📫 Reach me at: **sanketkatkade782@gmail.com**
 - 🚀 Always curious to learn and grow!
 
