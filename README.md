@@ -63,12 +63,6 @@
 
 ---
 
-# 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanketkatkade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&row=1&column=6" />
-</p>
-
----
 
 # 🐍 Contribution Snake  
 <p align="center">
@@ -99,7 +93,6 @@
 
 ---
 
-## 🌊 Animated Wave Footer  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0066FF&height=120&section=footer" />
 </p>
