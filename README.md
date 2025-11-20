@@ -44,13 +44,7 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="110" style="animation: spin 3s linear infinite;" />
 </p>
 
-<!-- Add rotation animation -->
-<style>
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-</style>
+
 
 ---
 
